@@ -1,0 +1,5 @@
+print('how')
+print('you' ,end=' ')
+print('ate' ,end=' ')
+print('today' ,end=' ')
+print('for dinner' ,end=' ')
